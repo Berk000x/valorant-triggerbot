@@ -10,5 +10,3 @@ This triggerbot is designed for Valorant, providing automatic firing under 15ms 
 ## Showcase
 [![Triggerbot Showcase](https://img.youtube.com/vi/lGIlw6exqH8/0.jpg)](https://www.youtube.com/watch?v=lGIlw6exqH8)
 > Click the image above to watch the showcase video.
-
-Join us on Discord: https://discord.gg/ZWTfrqXMW4
