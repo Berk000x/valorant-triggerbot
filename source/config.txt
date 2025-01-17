@@ -1,0 +1,7 @@
+hold_mode=0
+hold_key=left_alt
+target_color=purple
+color_sens=65
+tap_time=100
+scan_area_x=8
+scan_area_y=8
